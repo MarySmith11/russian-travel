@@ -1,0 +1,8 @@
+.header__lang-links {
+    height: 52px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding-bottom: 3px;
+    box-sizing: border-box;
+}
