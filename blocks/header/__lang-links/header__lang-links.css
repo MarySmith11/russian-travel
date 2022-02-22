@@ -6,3 +6,9 @@
     padding-bottom: 3px;
     box-sizing: border-box;
 }
+
+@media screen and (max-width:595px) {
+    .header__lang-links {
+        height: 40px;
+    }
+}

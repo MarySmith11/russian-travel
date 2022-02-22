@@ -5,3 +5,15 @@
     padding: 28px 48px 24px;
     box-sizing: border-box;
 }
+
+@media screen and (max-width:768px) {
+    .wrapper {
+        padding: 28px 24px 24px;
+    }
+}
+
+@media screen and (max-width:595px) {
+    .wrapper {
+        padding: 16px 16px 24px;
+    }
+}
