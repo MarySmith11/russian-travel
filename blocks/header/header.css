@@ -4,3 +4,15 @@
     height: 52px;
     margin-bottom: 57px;
 }
+
+@media screen and (max-width:1024px) {
+    .header {
+        margin-bottom: 48px;
+    }
+}
+
+@media screen and (max-width:595px) {
+    .header {
+        margin-bottom: 39px;
+    }
+}
