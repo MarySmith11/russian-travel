@@ -1,5 +1,5 @@
 .header__lang-links {
-    height: 52px;
+    min-height: 52px;
     display: flex;
     justify-content: flex-end;
     align-items: flex-end;
@@ -9,6 +9,7 @@
 
 @media screen and (max-width:595px) {
     .header__lang-links {
-        height: 40px;
+        min-height: 40px;
+        padding: 0 0 15px; 
     }
 }
